@@ -11,7 +11,7 @@ e desktop (1728px).\
 \
 Neste curso aprendi diversas coisas e revisei muitas outras em relação ao meu primeiro estudo de front-end
 
-Por enquanto apenas o "Home" e o "Sobre mim" são adaptados para mobile, o projeto será adaptado quando estiver funcional.
+Este projeto está ~90% parecido com o original do curso, realizei algumas alterações e algumas funções a mais enquanto o desenvolvia para deixar de meu agrado!
 
 ## Destaque de Recursos Utilizados
 - Media Queries
