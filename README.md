@@ -1,6 +1,9 @@
 # estudo-front-end-mobile-first
 Pagina feita durante curso de "HTML e CSS: responsividade com mobile-first" da Alura.
 
+## Link
+https://gabrienzo.github.io/estudo-front-end-mobile-first/
+
 ## Sobre
 
 Criei esta pagina seguindo o curso de "HTML e CSS: responsividade com mobile-first", onde como o nome ja diz foi utilizado a metodologia "Mobile first", ou seja, eu fiz primeiro o modelo mobile da pagina para smartphones e em seguida adaptei para tablets (1024px)
